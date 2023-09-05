@@ -25,13 +25,13 @@ export default function Homepage() {
         <section className="showcase">
           <div className="overlay">
             <div className="row">
-            <h1 className="text-white"></h1>
-            <button className="text-white">SUp</button>
+            <h1 className="text-white text-5xl">Welcome to Space X landing Page</h1>
+            
             </div>
              
              
           </div>
-          <button className="text-white">jeus</button>
+        
         
           <article className="text-white">
               <h1 className="heading text-center capitalize">
